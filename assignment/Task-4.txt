@@ -1,0 +1,6 @@
+You are required to develop the page using HTML, CSS, Javascript/Jquery
+- Use re-usable components
+- Don't use bootstrap or any other grid framework
+- Should be Responsive
+- Functionalites for favorite items and countdown
+- Avoid using third party libraries 
